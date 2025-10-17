@@ -230,6 +230,8 @@ CREATE TABLE Shipments(
 **Question 7**
 ---
 <img width="985" height="323" alt="image" src="https://github.com/user-attachments/assets/84f6a490-c854-439e-a2f7-30e068db9893" />
+<img width="354" height="160" alt="image" src="https://github.com/user-attachments/assets/89938e08-69e2-4852-8e37-7faa724526b4" />
+
 
 
 ```
