@@ -175,6 +175,8 @@ where OPENING_AMT between 4000 and 6000;
 
 <img width="1230" height="536" alt="image" src="https://github.com/user-attachments/assets/b51bfa73-705c-4630-acc9-3e1d88e293aa" />
 <img width="1223" height="542" alt="image" src="https://github.com/user-attachments/assets/3e933ffb-8fd0-4ac8-8d03-b4889de347d9" />
+<img width="442" height="519" alt="image" src="https://github.com/user-attachments/assets/1bd17f3d-609c-4aba-a1f3-77c249cc61da" />
+
 <img width="732" height="510" alt="image" src="https://github.com/user-attachments/assets/0584b481-3b13-40f9-9a30-09e93a82a900" />
 
 
