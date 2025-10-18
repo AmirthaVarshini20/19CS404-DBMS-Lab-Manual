@@ -199,15 +199,18 @@ and GRADE <3;
 
 **Question 10**
 ---
--- Paste Question 10 here
+<img width="724" height="450" alt="image" src="https://github.com/user-attachments/assets/272931fb-92d5-4a87-89d4-d252a4bb75c5" />
+
 
 ```sql
--- Paste your SQL code below for Question 10
+delete from Doctors
+where doctor_id between 2 and 4;
 ```
 
 **Output:**
 
-![Output10](output.png)
+<img width="1211" height="739" alt="image" src="https://github.com/user-attachments/assets/cf6d3014-292c-428c-ba73-9ced62f26822" />
+
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
